@@ -20,6 +20,7 @@ h1{
     color: orange;
     cursor: pointer;
     width: max-content;
+    display: block;
 }
 
 #navn{
