@@ -4,7 +4,7 @@ body{
 }
 h1{
     color: black;
-    font-family: Bahnschrift;
+    font-family: Bahnschrift, cursive;
     margin: 20px;
     padding: 10px;
 }
@@ -28,11 +28,11 @@ h1{
     color: orange;
 }
 #navn:hover{
-    color: gray;
+    color: rgb(128, 128, 128);
     cursor: pointer;
 }
 .navn_dato{
-    color: gray;
+    color: rgb(128, 128, 128);
     font-size: 15px;
 }
 .gg-comment{
