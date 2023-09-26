@@ -42,3 +42,9 @@ h1{
 .paragraf3{
     text-align: end;
 }
+button{
+    cursor: pointer;
+}
+button:hover{
+    box-shadow: 1px 1px 1px;
+}
