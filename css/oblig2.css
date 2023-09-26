@@ -14,17 +14,6 @@ h1{
     font-size: 22px;
     color: blue;
 }
-.symbol_tekst{
-    display: flex;
-}
-.symbol{
-    width: 200px;
-    
-}
-.tekst{
-    Flex: 1;
-    max-width: 700px;
-}
 #navn{
     color: orange;
 }
@@ -35,10 +24,4 @@ h1{
 .navn_dato{
     color: rgb(128, 128, 128);
     font-size: 15px;
-}
-.gg-comment{
-    margin-left: 15px;
-    margin-top: 10px;
-}
-.strek{
 }
