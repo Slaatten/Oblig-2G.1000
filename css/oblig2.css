@@ -14,8 +14,6 @@ h1{
     font-size: 22px;
     color: blue;
 }
-<<<<<<< Updated upstream
-=======
 .bildetekst{
     display: flex;
 }
@@ -58,5 +56,10 @@ h1{
 }
 .bilde{
     width:70%
->>>>>>> Stashed changes
+}
+.overskrift3{
+    text-align: end;
+}
+.paragraf3{
+    text-align: end;
 }
