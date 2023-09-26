@@ -17,7 +17,7 @@ h1{
 }
 .symbol{
     width: 200px;
-    height: 700px;
+    
 }
 .tekst{
     Flex: 1;
@@ -37,4 +37,6 @@ h1{
 .gg-comment{
     margin-left: 15px;
     margin-top: 10px;
+}
+.strek{
 }
