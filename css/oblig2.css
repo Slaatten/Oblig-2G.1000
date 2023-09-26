@@ -21,6 +21,7 @@ h1{
     margin-top: 16px;
     color: orange;
     cursor: pointer;
+    width: max-content;
 }
 .seperate{
     margin-left: 5px;
