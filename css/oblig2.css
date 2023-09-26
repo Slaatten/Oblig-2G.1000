@@ -3,6 +3,7 @@ body{
     font-family: sans-serif;
 }
 h1{
+    text-align: center;
     color: black;
     font-family: Bahnschrift, cursive;
     margin: 20px;
@@ -12,6 +13,19 @@ h1{
     font-weight: 700;
     font-size: 22px;
     color: blue;
+}
+<<<<<<< Updated upstream
+=======
+.bildetekst{
+    display: flex;
+}
+.større{
+    margin-top: 16px;
+    color: orange;
+    cursor: pointer;
+}
+.seperate{
+    margin-left: 5px;
 }
 .symbol_tekst{
     display: flex;
@@ -24,6 +38,7 @@ h1{
     Flex: 1;
     max-width: 700px;
 }
+>>>>>>> Stashed changes
 #navn{
     color: orange;
 }
@@ -34,10 +49,14 @@ h1{
 .navn_dato{
     color: rgb(128, 128, 128);
     font-size: 15px;
+<<<<<<< Updated upstream
+=======
 }
 .gg-comment{
     margin-left: 15px;
     margin-top: 10px;
 }
-.strek{
+.bilde{
+    width:70%
+>>>>>>> Stashed changes
 }
