@@ -1,0 +1,40 @@
+body{
+    background-color: rgba(182, 181, 181, 0.6);
+    font-family: sans-serif;
+}
+h1{
+    color: black;
+    font-family: Bahnschrift;
+    margin: 20px;
+    padding: 10px;
+}
+.overskrift2{
+    font-weight: 700;
+    font-size: 22px;
+}
+.symbol_tekst{
+    display: flex;
+}
+.symbol{
+    width: 200px;
+    height: 700px;
+}
+.tekst{
+    Flex: 1;
+    max-width: 700px;
+}
+#navn{
+    color: orange;
+}
+#navn:hover{
+    color: gray;
+    cursor: pointer;
+}
+.navn_dato{
+    color: gray;
+    font-size: 15px;
+}
+.gg-comment{
+    margin-left: 15px;
+    margin-top: 10px;
+}
