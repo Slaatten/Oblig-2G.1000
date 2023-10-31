@@ -1,5 +1,5 @@
 body{
-    background-color: rgba(182, 181, 181, 0.6);
+    background-color: rgba(0, 0, 0, 0.0);
     font-family: sans-serif;
 }
 .kropp{
@@ -56,4 +56,5 @@ button:hover{
 }
 #paragraf2{
     margin-left: 50px;
+    line-height: 15pt;
 }
