@@ -14,8 +14,11 @@ h1{
     font-size: 22px;
     color: blue;
 }
+.listeSP{
 
-.større{
+}
+
+    .større{
     color: orange;
     cursor: pointer;
     width: max-content;
