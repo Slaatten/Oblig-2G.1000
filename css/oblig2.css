@@ -39,12 +39,6 @@ h1{
 .bilde{
     width:80%
 }
-.overskrift3{
-    text-align: end;
-}
-.paragraf3{
-    text-align: end;
-}
 button{
     cursor: pointer;
 }
@@ -53,4 +47,7 @@ button:hover{
 }
 .test{
     width: 20%
+}
+#paragraf2{
+    margin-left: 50px;
 }
