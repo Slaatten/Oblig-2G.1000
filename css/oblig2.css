@@ -2,10 +2,15 @@ body{
     background-color: rgba(182, 181, 181, 0.6);
     font-family: sans-serif;
 }
+.kropp{
+    margin-left: 50px;
+    font-family: "Arial";
+    font-size: 18px;
+}
 h1{
     text-align: center;
     color: black;
-    font-family: Bahnschrift, cursive;
+    font-family: Arial, cursive;
     margin: 20px;
     padding: 10px;
 }
@@ -15,6 +20,7 @@ h1{
     color: blue;
 }
 .listeSP{
+    margin-left: 20px;
 
 }
 
