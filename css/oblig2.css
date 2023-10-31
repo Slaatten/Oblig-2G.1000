@@ -2,10 +2,21 @@ body{
     background-color: rgba(0, 0, 0, 0.0);
     font-family: sans-serif;
 }
+
+.topp{
+    background-color: rgb(255, 187, 0);
+    width: 100%;
+    height: 70px;
+    position: sticky;
+    top: 0px;
+}
 .kropp{
-    margin-left: 50px;
+    margin: 0px;
     font-family: "Arial";
     font-size: 18px;
+}
+.hoveddel{
+    margin-left: 60px;
 }
 h1{
     text-align: center;
